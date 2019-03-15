@@ -1,6 +1,5 @@
 #! python3
 import pyautogui, sys
-print('Press Ctrl-C to quit.')
 movement = 0
 
 previous_position = [0, 0]
